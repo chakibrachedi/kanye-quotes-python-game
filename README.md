@@ -1,2 +1,2 @@
 # kanye-quotes-python-game
- A python game that pulls random kanye quotes
+A simple python game that pulls random Kanye West quotes from an API
